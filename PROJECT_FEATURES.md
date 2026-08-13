@@ -1,3 +1,3 @@
 # Implemented Features
-## FRO2: Teacher Login
-## FRO2: Teacher Login
+## FR01: Teacher Activation
+## FR02: Teacher Login
